@@ -36,7 +36,7 @@ Aplikasi ini menggunakan API Hadits Gading Dev untuk mengambil data hadits.
 Ikuti langkah-langkah di bawah ini untuk menyiapkan dan menjalankan proyek Hadist Digital:
 
 ### 1. Klon Repositori
-____
+
 git clone <https://github.com/akbarfadhil/UAS-MOBILE>
 cd hadist_digital
 ____-
