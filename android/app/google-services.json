@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839436937382",
+    "project_id": "hadistdigital-uas",
+    "storage_bucket": "hadistdigital-uas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839436937382:android:37fd9b7ce722637800ec67",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2ul1NQjFqdeW40YWPaTGBn5t-iNv_80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
