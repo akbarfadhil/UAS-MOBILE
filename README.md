@@ -39,7 +39,7 @@ Ikuti langkah-langkah di bawah ini untuk menyiapkan dan menjalankan proyek Hadis
 
 git clone <https://github.com/akbarfadhil/UAS-MOBILE>
 cd hadist_digital
-____-
+
 ### 2. Instal Dependencies dan Menyiapkan Proyek
 Langkah-langkah berikut harus dilakukan setelah mengklon repositori:
 
